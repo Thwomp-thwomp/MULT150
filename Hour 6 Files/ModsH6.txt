@@ -1,0 +1,24 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+
+1st finish zone at approx. 261, 50, 216 get over the water using the stepping stones to finish line
+2nd finish zone at approx. 42, 50, 433 pass zombies and other hazards to get to the abandoned building 
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+
+Zombies, barricades and toxic barrels were my additional hazards
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+
+Yes, please see stepping stones how they ascend then go down as you approach the end of the large water hole. 
+
+D. Modify the sky and textures to create a world based on your theme.
+
+Sky is dark/murky red to match a zombie apocalypse scene.
