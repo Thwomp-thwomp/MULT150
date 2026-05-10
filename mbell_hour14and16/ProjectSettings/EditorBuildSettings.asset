@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/mbell_hour14.unity
     guid: 79e56e740eb92634d8ae44da63dfdf7a
   - enabled: 1
+    path: Assets/Scenes/Mbell_hour16.unity
+    guid: cc0e32d97ee948947b26b50a2935ff47
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 1f13dbf7f35f6ab4383848ee37628263
   m_configObjects: {}
